@@ -1,0 +1,4 @@
+Employee [id=1, name=shashi, salary=75000.0, department=IT]
+Employee [id=1, name=shashi, salary=75000.0, department=IT]
+Employee [id=1, name=nani, salary=80000.0, department=IT]
+Employee [id=2, name=nani, salary=80000.0, department=HR]
